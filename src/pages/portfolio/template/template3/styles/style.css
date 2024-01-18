@@ -39,8 +39,7 @@
 .behance-cards .project-card {
   cursor: pointer;
   background-color: #1a1a2e;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   border-radius: 1rem !important;
   transition: transform 200ms ease-in;
 }
