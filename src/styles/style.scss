@@ -68,7 +68,7 @@ $mobile-device: 400px;
     right: 95px;
   }
   @media only screen and (max-width: 991px) {
-    .btn.btn-neutral:not(:last-child) {
+    .btn .btn-neutral:not(:last-child) {
       margin-right: 0;
     }
   }
