@@ -16180,7 +16180,7 @@ Coded by www.creative-tim.com
     }
   }
   @media only screen and (max-width: 991.98px) {
-    .btn .btn-neutral:not(:last-child) {
+    .btn :not(:last-child) {
       margin-right: 0;
     }
   
