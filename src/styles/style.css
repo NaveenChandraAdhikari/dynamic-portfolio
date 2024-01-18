@@ -265,7 +265,7 @@ input:checked + .toggle .star--6 {
 .preview-image {
   width: 100%;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
   height: inherit;
   display: block;
   margin: auto;
@@ -439,8 +439,7 @@ input:checked + .toggle .star--6 {
 }
 
 .text-cabin * {
-  font-family: "Cabin", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Cabin", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 .text-cabin * i.skills {
   font-family: "devicon" !important;
@@ -451,8 +450,7 @@ input:checked + .toggle .star--6 {
 }
 
 .text-inter * {
-  font-family: "Inter", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Inter", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 .text-inter * i.skills {
   font-family: "devicon" !important;
@@ -463,8 +461,7 @@ input:checked + .toggle .star--6 {
 }
 
 .text-poppins * {
-  font-family: "Poppins", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif !important;
+  font-family: "Poppins", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif !important;
 }
 .text-poppins * i.skills {
   font-family: "devicon" !important;
@@ -475,8 +472,7 @@ input:checked + .toggle .star--6 {
 }
 
 * {
-  font-family: "Poppins", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Poppins", "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -526,7 +522,7 @@ input:checked + .toggle .star--6 {
   height: 60px;
   bottom: 70px;
   right: 80px;
-  background-color: #e90000;
+  background-color: #fff;
   border-radius: 50px;
   text-align: center;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
@@ -541,7 +537,7 @@ input:checked + .toggle .star--6 {
   }
 }
 @media only screen and (max-width: 991px) {
-  .back-to-top-div .btn .btn-neutral:not(:last-child) {
+  .back-to-top-div .btn:not(:last-child) {
     margin-right: 0;
   }
-} /*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
