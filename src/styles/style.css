@@ -536,7 +536,7 @@ input:checked + .toggle .star--6 {
     right: 95px;
   }
 }
-@media only screen and (max-width: 991.98px) {
+@media only screen and (max-width: 991px) {
   .back-to-top-div .btn:not(:last-child) {
     margin-right: 0;
   }
