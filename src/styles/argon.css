@@ -16179,6 +16179,10 @@ Coded by www.creative-tim.com
       overflow: hidden;
     }
   }
+  @media only screen and (max-width: 991.98px) {
+    .btn .btn-neutral:not(:last-child) {
+      margin-right: 0;
+    }
   
   .blur--hover {
     position: relative;
